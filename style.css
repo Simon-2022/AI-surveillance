@@ -8,7 +8,9 @@ body {
     margin: 0px;
 }
 
-#startButton, #number_of_objects, #status{
+#startButton,
+#number_of_objects,
+#status {
     font-size: 18px;
 }
 
